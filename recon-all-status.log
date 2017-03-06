@@ -1,0 +1,73 @@
+status file for recon-all
+Wed Nov 16 17:46:29 EST 2016
+#@# MotionCor Wed Nov 16 17:46:39 EST 2016
+#@# Talairach Wed Nov 16 17:46:51 EST 2016
+#@# Talairach Failure Detection Wed Nov 16 17:48:39 EST 2016
+#@# Nu Intensity Correction Wed Nov 16 17:48:39 EST 2016
+#@# Intensity Normalization Wed Nov 16 17:50:25 EST 2016
+#@# Skull Stripping Wed Nov 16 17:53:58 EST 2016
+#@# EM Registration Wed Nov 16 18:22:49 EST 2016
+#@# CA Normalize Wed Nov 16 18:45:30 EST 2016
+#@# CA Reg Wed Nov 16 18:47:51 EST 2016
+#@# CA Reg Inv Wed Nov 16 23:11:25 EST 2016
+#@# Remove Neck Wed Nov 16 23:13:26 EST 2016
+#@# SkullLTA Wed Nov 16 23:15:55 EST 2016
+#@# SubCort Seg Wed Nov 16 23:40:05 EST 2016
+#@# Merge ASeg Thu Nov 17 00:03:44 EST 2016
+#@# Intensity Normalization2 Thu Nov 17 00:03:44 EST 2016
+#@# Mask BFS Thu Nov 17 00:09:04 EST 2016
+#@# WM Segmentation Thu Nov 17 00:09:07 EST 2016
+#@# Fill Thu Nov 17 00:12:24 EST 2016
+#@# Tessellate lh Thu Nov 17 00:13:32 EST 2016
+#@# Smooth1 lh Thu Nov 17 00:13:40 EST 2016
+#@# Inflation1 lh Thu Nov 17 00:13:46 EST 2016
+#@# QSphere lh Thu Nov 17 00:14:12 EST 2016
+#@# Fix Topology lh Thu Nov 17 00:17:20 EST 2016
+#@# Make White Surf lh Thu Nov 17 01:11:25 EST 2016
+#@# Smooth2 lh Thu Nov 17 01:17:16 EST 2016
+#@# Inflation2 lh Thu Nov 17 01:17:22 EST 2016
+#@# Curvature Stats lh Thu Nov 17 01:19:03 EST 2016
+#@# Sphere lh Thu Nov 17 01:19:09 EST 2016
+#@# Surf Reg lh Thu Nov 17 02:00:44 EST 2016
+#@# Jacobian white lh Thu Nov 17 02:24:06 EST 2016
+#@# AvgCurv lh Thu Nov 17 02:24:08 EST 2016
+#@# Cortical Parc lh Thu Nov 17 02:24:10 EST 2016
+#@# Make Pial Surf lh Thu Nov 17 02:25:01 EST 2016
+#@# Surf Volume lh Thu Nov 17 02:37:36 EST 2016
+#@# WM/GM Contrast lh Thu Nov 17 02:37:36 EST 2016
+#@# Parcellation Stats lh Thu Nov 17 02:37:43 EST 2016
+#@# Cortical Parc 2 lh Thu Nov 17 02:37:58 EST 2016
+#@# Parcellation Stats 2 lh Thu Nov 17 02:39:00 EST 2016
+#@# Cortical Parc 3 lh Thu Nov 17 02:39:15 EST 2016
+#@# Parcellation Stats 3 lh Thu Nov 17 02:40:01 EST 2016
+#@# Tessellate rh Thu Nov 17 02:40:16 EST 2016
+#@# Smooth1 rh Thu Nov 17 02:40:24 EST 2016
+#@# Inflation1 rh Thu Nov 17 02:40:30 EST 2016
+#@# QSphere rh Thu Nov 17 02:40:56 EST 2016
+#@# Fix Topology rh Thu Nov 17 02:44:08 EST 2016
+#@# Make White Surf rh Thu Nov 17 03:37:09 EST 2016
+#@# Smooth2 rh Thu Nov 17 03:43:00 EST 2016
+#@# Inflation2 rh Thu Nov 17 03:43:05 EST 2016
+#@# Curvature Stats rh Thu Nov 17 03:44:47 EST 2016
+#@# Sphere rh Thu Nov 17 03:44:54 EST 2016
+#@# Surf Reg rh Thu Nov 17 04:22:09 EST 2016
+#@# Jacobian white rh Thu Nov 17 04:47:10 EST 2016
+#@# AvgCurv rh Thu Nov 17 04:47:13 EST 2016
+#@# Cortical Parc rh Thu Nov 17 04:47:14 EST 2016
+#@# Make Pial Surf rh Thu Nov 17 04:48:02 EST 2016
+#@# Surf Volume rh Thu Nov 17 04:59:58 EST 2016
+#@# WM/GM Contrast rh Thu Nov 17 04:59:59 EST 2016
+#@# Parcellation Stats rh Thu Nov 17 05:00:06 EST 2016
+#@# Cortical Parc 2 rh Thu Nov 17 05:00:22 EST 2016
+#@# Parcellation Stats 2 rh Thu Nov 17 05:01:27 EST 2016
+#@# Cortical Parc 3 rh Thu Nov 17 05:01:43 EST 2016
+#@# Parcellation Stats 3 rh Thu Nov 17 05:02:29 EST 2016
+#@# Cortical ribbon mask Thu Nov 17 05:02:44 EST 2016
+#@# ASeg Stats Thu Nov 17 05:16:20 EST 2016
+#@# AParc-to-ASeg Thu Nov 17 05:20:28 EST 2016
+#@# WMParc Thu Nov 17 05:24:00 EST 2016
+#@# BA Labels lh Thu Nov 17 05:35:19 EST 2016
+#@# BA Labels rh Thu Nov 17 05:38:56 EST 2016
+#@# Ex-vivo Entorhinal Cortex Label lh Thu Nov 17 05:42:35 EST 2016
+#@# Ex-vivo Entorhinal Cortex Label rh Thu Nov 17 05:42:50 EST 2016
+recon-all -s mybrain finished without error at Thu Nov 17 05:43:06 EST 2016
